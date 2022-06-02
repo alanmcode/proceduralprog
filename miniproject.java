@@ -1,5 +1,4 @@
-/* ***************************************
-  @author    Alan Mustafa
+
   @date      4 October 2020
   @version   4
 
